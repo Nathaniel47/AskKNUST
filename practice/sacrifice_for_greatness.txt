@@ -1,0 +1,50 @@
+Every great piece of technology began as a sacrifice someone chose to make.
+Before the first line of code compiled, someone gave up an evening of rest.
+The garage where a startup was born was cold, cramped, and far from comfortable.
+Founders often trade steady salaries for the uncertain promise of an idea.
+Greatness in tech rarely arrives on schedule, and it never arrives for free.
+A programmer who masters an algorithm has paid for it with hours of confusion.
+Debugging teaches patience because the machine does exactly what you told it.
+The sacrifice is not only time; it is also the comfort of being right.
+Every refactor asks you to let go of code you were once proud of.
+Engineers who build reliable systems sacrifice speed today for stability tomorrow.
+The best teams give up individual glory so the product can shine.
+Open source exists because thousands chose to give their work away freely.
+A maintainer answers bug reports at midnight for users they will never meet.
+Learning a new language means accepting that you will feel slow again.
+Experts were once beginners who refused to quit when the errors piled up.
+Sacrifice in tech often looks like saying no to a hundred good ideas.
+Focus is the decision to ignore what is exciting in favour of what matters.
+A shipped product is better than a perfect one that lives only in your head.
+Founders sacrifice certainty, betting years of life on an unproven market.
+Many give up weekends, holidays, and sleep in pursuit of a working prototype.
+Yet wise builders learn that burning out is not the same as committing.
+True sacrifice is sustainable; it is a long investment, not a single explosion.
+The engineer who rests well often writes cleaner code the next morning.
+Great architecture comes from discarding designs that almost worked.
+Each failed experiment narrows the path toward the solution that will.
+Pioneers of computing worked with machines that filled entire rooms.
+They gave up easy careers to chase problems most people could not see.
+Their patience laid foundations that billions now use without a thought.
+Every smartphone carries the quiet sacrifices of countless unnamed engineers.
+Writing documentation is a sacrifice of time for the sake of strangers.
+Mentoring juniors slows you down today but multiplies your team tomorrow.
+Leaders in tech sacrifice their own coding time to remove obstacles for others.
+Security engineers give up convenience so that users can stay safe.
+Data scientists spend most of their hours cleaning data no one will praise.
+Greatness is built in the unglamorous work that never appears in a demo.
+The sacrifice of practice turns difficult concepts into second nature.
+A student who studies systems late at night is planting seeds for the future.
+Every certificate earned represents evenings traded for growth.
+Researchers accept years of uncertainty for a single meaningful result.
+Many breakthroughs come after hundreds of experiments that went nowhere.
+Sacrifice means choosing long-term mastery over short-term applause.
+It means reading the manual when guessing would be faster today.
+It means writing tests even when you are sure the code already works.
+It means admitting mistakes quickly so the whole team can move forward.
+The greatest builders sacrifice ego and stay curious about being wrong.
+They know technology changes, so they commit to learning for a lifetime.
+What they give up is real, but what they create can outlast them.
+A single tool, built with care, can empower millions of people.
+That is the quiet bargain of greatness in technology: give first, build second.
+So choose your sacrifices wisely, and let them lead you toward something worth building.
